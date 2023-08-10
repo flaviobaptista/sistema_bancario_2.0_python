@@ -6,13 +6,13 @@
 <br>
 <br>
 <p align="justify">
-Este projeto consiste em um sistema um pouco mais aprimorado de gerenciamento de conta bancária, esta versão do sistema foi desenvolvida com foco na usabilidade e na expansão das capacidades do usuário.
+Este projeto consiste em um sistema um pouco mais aprimorado de gerenciamento de conta bancária desenvolvido em Python. O sistema oferece uma variedade de funcionalidades que permitem aos usuários realizar operações financeiras, gerenciar múltiplas contas, criar usuários e manter o controle sobre saques e limites diários.
 <br>
 Uma das principais características do sistema é a utilização de um menu interativo, no qual o usuário pode escolher as opções desejadas através de um número correspondente. O menu foi projetado para proporcionar uma experiência intuitiva ao usuário, tornando a interação com o sistema mais fácil e acessível.
 <br>
 Além disso, o sistema foi aprimorado com a implementação de funções modulares, proporcionando uma organização mais clara e eficiente do código. Isso possibilita a manutenção e extensão do projeto de forma mais prática e compreensível.
 <br>
-Em suma, o sistema de gerenciamento de conta bancária oferece uma solução prática e funcional para controlar as movimentações financeiras, possibilitando que o usuário realize operações bancárias de forma eficiente e segura.
+Este projeto é uma evolução do sistema inicial de gerenciamento de conta bancária, desenvolvido em Python. A versão 2.0 trouxe melhorias, incluindo funções modulares para maior organização do código. Além disso, foi implementada uma nova funcionalidade para listar usuários, proporcionando um melhor controle sobre as contas bancárias. O problema relacionado ao limite de saque, presente no projeto original, também foi identificado e corrigido, tornando o sistema ainda mais confiável. Adicionalmente, para facilitar a depuração e solução de problemas, foram acrescentadas linhas de código para debug, tornando o processo de desenvolvimento e manutenção mais eficiente.
 <p>
 
 <h3 style="color: #b9faf8;">Funcionalidades</h3>
