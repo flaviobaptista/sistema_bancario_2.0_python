@@ -7,7 +7,7 @@ def menu():
     Olá, seja bem-vindo...
 
     Escolha uma das opções a seguir.
-    __________________________________________
+    _________________________________________
     
     [1]----> Depositar
     [2]----> Sacar
@@ -18,7 +18,7 @@ def menu():
     [7]----> Listar usuário
     [8]----> Sair
 
-    __________________________________________
+    _________________________________________
     Digite aqui a opção desejada => """
 
     return input(textwrap.dedent(menu))
