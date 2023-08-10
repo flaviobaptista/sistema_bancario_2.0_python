@@ -1,6 +1,3 @@
-# Sistema_bancario_2.0_python
-Um sistema um pouco mais aprimorado de gerenciamento de conta bancária, esta versão do sistema foi desenvolvida com foco na usabilidade e na expansão das capacidades do usuário.
-
 <h1 style="color: #b298dc;">Gerenciamento de Conta Bancária VS 2.0</h1>
 
 <img style="margin-right: 50px;" align="left" alt="Developer Art" width="250px" src="./img/1026870_OJZ2IH1.png">
@@ -9,7 +6,7 @@ Um sistema um pouco mais aprimorado de gerenciamento de conta bancária, esta ve
 <br>
 <br>
 <p align="justify">
-Este projeto consiste em um sistema simples de gerenciamento de conta bancária, desenvolvido em Python. O programa permite ao usuário realizar operações de depósito, saque, verificar extrato e limite de saque.
+Este projeto consiste em um sistema um pouco mais aprimorado de gerenciamento de conta bancária, esta versão do sistema foi desenvolvida com foco na usabilidade e na expansão das capacidades do usuário.
 <br>
 Uma das principais características do sistema é a utilização de um menu interativo, no qual o usuário pode escolher as opções desejadas através de um número correspondente. O menu foi projetado para proporcionar uma experiência intuitiva ao usuário, tornando a interação com o sistema mais fácil e acessível.
 <br>
@@ -34,6 +31,7 @@ Em suma, o sistema de gerenciamento de conta bancária oferece uma solução pr�
 
 - **Criação de Usuários:** O sistema permite a criação de usuários, proporcionando um controle mais completo e seguro das contas bancárias.
 
+- **Listagem de Usuários:** A funcionalidade de listagem de usuários exibe informações detalhadas existentes, facilitando o acompanhamento dos cadastros.
 
 <h2 style="color: #b9faf8;">Requisitos</h2>
 - Python 3.x
